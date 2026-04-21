@@ -1,4 +1,5 @@
-[index.html](https://github.com/user-attachments/files/26914711/index.html)
+[index.html](https://github.com/user-attachments/files/26914894/index.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -717,7 +718,7 @@
         <span class="hero-title-accent">Meyer<span class="cursor"></span></span>
       </h1>
       <p class="hero-sub fade-in delay-2">
-        Cybersecurity student, CCNA-certified network professional, and IT intern at Del Mar College — building expertise at the intersection of network defense, compliance, and information security.
+        Cybersecurity student, CCST Cisco Certified network professional, and IT intern at Del Mar College — building expertise at the intersection of network defense, compliance, and information security.
       </p>
       <div class="hero-ctas fade-in delay-3">
         <a href="#experience" class="btn btn-primary">View Experience</a>
@@ -751,7 +752,7 @@
           <div class="stat-label">GPA at Del Mar College</div>
         </div>
         <div class="stat-cell">
-          <div class="stat-val">CCNA</div>
+          <div class="stat-val">CCST</div>
           <div class="stat-label">Cisco Certified</div>
         </div>
         <div class="stat-cell">
@@ -759,8 +760,8 @@
           <div class="stat-label">Years in IT &amp; Security Roles</div>
         </div>
         <div class="stat-cell">
-          <div class="stat-val">$80K</div>
-          <div class="stat-label">Sponsorships Secured (Prior Role)</div>
+          <div class="stat-val">6+</div>
+          <div class="stat-label">Cisco Certifications Earned</div>
         </div>
       </div>
     </div>
