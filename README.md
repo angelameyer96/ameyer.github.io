@@ -910,7 +910,7 @@
           <div class="project-type">Machine Learning · Data Science</div>
           <div class="project-title">Cirrhosis Patient Outcome Prediction via Neural Network</div>
           <div class="project-desc">
-            Built a binary classification neural network in TensorFlow to predict patient survival outcomes using the Mayo Clinic primary biliary cirrhosis dataset. Handled preprocessing of 418 clinical records — including missing value removal, one-hot encoding, binary mapping, and StandardScaler normalization — then trained a Sequential model with two hidden ReLU layers and a sigmoid output over 10 epochs.
+            Built a binary classification neural network in TensorFlow to predict patient survival outcomes using the Mayo Clinic primary biliary cirrhosis dataset. Handled preprocessing of 418 clinical records, including missing value removal, one-hot encoding, binary mapping, and StandardScaler normalization, then trained a Sequential model with two hidden ReLU layers and a sigmoid output over 10 epochs.
           </div>
           <div class="project-meta">
             <span class="project-tag">Python</span>
@@ -941,6 +941,44 @@
             <a href="https://github.com/angelameyer96/angelameyer96.github.io/blob/main/ameyer_cirrhosis.ipynb" class="project-link" target="_blank">↗ View Notebook</a>
             <a href="https://github.com/angelameyer96/angelameyer96.github.io/blob/main/AMeyer_Project_A_Cirrhosis.pptx" class="project-link" target="_blank">↗ View Slides</a>
             <a href="https://github.com/angelameyer96/angelameyer96.github.io/blob/main/ameyer_cirrhosis_report.pdf" class="project-link" target="_blank">↗ View Report</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="project-card">
+        <div class="project-left">
+          <div class="project-type">Cybersecurity Research · Incident Analysis</div>
+          <div class="project-title">Third-Party Vendor Vulnerabilities: 2025 Ericsson Service Provider Breach</div>
+          <div class="project-desc">
+            Analyzed the 2025 Ericsson vishing breach through the CIA triad framework, examining how a single social engineering phone call compromised data belonging to 15,661 individuals. Covered the eleven-month notification delay as a compliance failure, evaluated gaps in confidentiality, integrity, and availability controls, and proposed mitigations including SIEM implementation, MFA, least privilege access, and third-party incident response planning.
+          </div>
+          <div class="project-meta">
+            <span class="project-tag">CIA Triad</span>
+            <span class="project-tag">Vishing</span>
+            <span class="project-tag">Social Engineering</span>
+            <span class="project-tag">SIEM</span>
+            <span class="project-tag">Incident Response</span>
+            <span class="project-tag">Third-Party Risk</span>
+            <span class="project-tag">CMMC</span>
+          </div>
+        </div>
+        <div class="project-right">
+          <div class="project-stat-row">
+            <div class="project-stat">
+              <div class="project-stat-val">15,661</div>
+              <div class="project-stat-label">Individuals Affected</div>
+            </div>
+            <div class="project-stat">
+              <div class="project-stat-val">11mo</div>
+              <div class="project-stat-label">Notification Delay</div>
+            </div>
+            <div class="project-stat">
+              <div class="project-stat-val">3</div>
+              <div class="project-stat-label">CIA Triad Failures</div>
+            </div>
+          </div>
+          <div style="display:flex; flex-direction:column; gap:0.75rem;">
+            <a href="https://github.com/angelameyer96/angelameyer96.github.io/blob/main/Third_Party_Vendor_Vulnerabilities_-_Ameyer.pdf" class="project-link" target="_blank">↗ View Report</a>
           </div>
         </div>
       </div>
@@ -1209,4 +1247,4 @@
 
 </body>
 </html>
-[index.html](https://github.com/user-attachments/files/27371890/index.html)
+[index.html](https://github.com/user-attachments/files/27409909/index.html)
