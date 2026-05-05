@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27410882/README.md)
 # Angela Meyer | Cybersecurity & Network Administration
 
 🌐 **Portfolio:** [angelameyer96.github.io](https://angelameyer96.github.io)  
